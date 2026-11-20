@@ -26,11 +26,8 @@
 <div class="topbar">
     <a class="brand" href="gdQuanLiMonAn4.jsp">Rest<span>Man</span></a>
     <nav>
-        <a href="#">Tổng quan</a>
         <a class="active" href="gdQuanLiMonAn4.jsp">Quản lí món ăn</a>
-        <a href="#">Quản lí combo</a>
-        <a href="#">Thống kê</a>
-        <a href="gdSoDoBan4.jsp">Sơ đồ bàn</a>
+        <a href="gdTimBanTrong4.jsp">Đặt bàn trực tuyến</a>
     </nav>
     <div class="user"><div class="avatar">Q</div><span>Nhân viên quản lí</span></div>
 </div>

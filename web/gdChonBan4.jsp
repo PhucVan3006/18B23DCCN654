@@ -60,12 +60,10 @@
 <div class="topbar">
     <a class="brand" href="gdTimBanTrong4.jsp">Rest<span>Man</span></a>
     <nav>
-        <a href="#">Trang chủ</a>
-        <a href="#">Thực đơn</a>
+        <a href="gdQuanLiMonAn4.jsp">Quản lí món ăn</a>
         <a class="active" href="gdTimBanTrong4.jsp">Đặt bàn trực tuyến</a>
-        <a href="#">Đặt món</a>
     </nav>
-    <div class="user"><span>Đăng nhập</span></div>
+    <div class="user"><div class="avatar" style="background:#1f7a46">K</div><span>Khách hàng</span></div>
 </div>
 
 <div class="wrap">
