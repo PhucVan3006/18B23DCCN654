@@ -1,0 +1,7 @@
+build/
+nbproject/private/
+WEB-INF/classes/
+*.class
+*.jar.bak
+*.log
+.DS_Store
