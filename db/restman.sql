@@ -8,6 +8,10 @@ DROP DATABASE IF EXISTS restman;
 CREATE DATABASE restman CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 USE restman;
 
+-- Thiet lap ma hoa tieng Viet UTF-8 cho phien lam viec (tranh loi dau hoi ??? tren MySQL Workbench)
+SET NAMES utf8mb4;
+SET CHARACTER SET utf8mb4;
+
 -- ------------------------- Nguoi dung -------------------------
 CREATE TABLE tblMember4 (
   id        INT AUTO_INCREMENT PRIMARY KEY,
